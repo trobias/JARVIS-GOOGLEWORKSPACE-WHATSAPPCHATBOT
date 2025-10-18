@@ -10,13 +10,20 @@ Utiliza **Gemini**, **ElevenLabs**, y el estándar **MCP (Model Context Protocol
 
 > 🗂️ Archivo del flujo: `workflows/SUPER JARVIS TARNOWSKI.json`
 
-![Workflow de Jarvis](./assets/screenshots/workflow-diagram.png)
+<img width="1606" height="624" alt="image" src="https://github.com/user-attachments/assets/784a5ffd-9c0a-4a5d-bd4e-4c5be518b26f" />
 
+Google Sheets
+<img width="1477" height="199" alt="image" src="https://github.com/user-attachments/assets/dc758ca4-0fa0-43c4-af0e-b61fe1372e67" />
+
+Google Calendar
+
+<img width="795" height="376" alt="image" src="https://github.com/user-attachments/assets/c90c4116-ceb8-48a2-8a35-d1c8d07d06c4" />
+
+
+y más!
 ---
 
 ## 🧩 Arquitectura general
-
-> Si GitHub no renderiza el diagrama, probá con la **versión ASCII-safe** más abajo.
 
 ```mermaid
 flowchart TD
@@ -92,8 +99,6 @@ flowchart TD
 - `GEMINI TARNOWSKI` (googlePalmApi)  
 - `EVOLUTION TARNOWSKI` (evolutionApi)
 
-> Guardá los JSON OAuth en `/credentials/` (no los subas al repo).
-
 ---
 
 ## 🧱 Estructura de carpetas recomendada
@@ -132,18 +137,7 @@ jarvis-assistant/
 | “Enviá un correo a Nicole con el resumen.” | Busca contacto en Contacts, redacta y envía por Gmail. |
 | “Gasté 45 en café.” | Registra gasto en Sheets. |
 | “Mandame un audio con eso.” | Convierte la respuesta a voz con ElevenLabs. |
-
----
-
-## 🧾 Screenshots sugeridos
-
-- `assets/screenshots/workflow-diagram.png` – Diagrama general de n8n.  
-- `assets/screenshots/gmail-mcp.png` – Ejemplo de correo enviado/etiquetado.  
-- `assets/screenshots/calendar-mcp.png` – Evento creado automáticamente.  
-- `assets/screenshots/tasks-mcp.png` – Lista de tareas generada.  
-- `assets/screenshots/finance-mcp.png` – Hoja de gastos actualizada.  
-- `assets/screenshots/whatsapp-interaction.png` – Conversación real con Jarvis.  
-- `assets/screenshots/elevenlabs-response.png` – Respuesta en audio.  
+ 
 
 ---
 
