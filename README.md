@@ -19,6 +19,7 @@ Google Calendar
 
 <img width="795" height="376" alt="image" src="https://github.com/user-attachments/assets/c90c4116-ceb8-48a2-8a35-d1c8d07d06c4" />
 
+<img width="287" height="197" alt="image" src="https://github.com/user-attachments/assets/eeee3e7b-53f9-451f-bc5f-4e92a080e1a1" />
 
 y más!
 ---
